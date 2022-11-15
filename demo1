@@ -1,0 +1,32 @@
+<html>
+    <body>
+        <h1>Tables</h1>
+
+		<table border="1">
+			<thead>
+				<>
+					<th>Name</th>
+					<th>Email</th>
+					<th>Phone</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>hello</td>
+					<td>hllo@gmail.com</td>
+					<td>5588996644</td>
+				</tr>
+				<tr>
+					<td>hi</td>
+					<td>hi@gmail.com</td>
+					<td>3366558899</td>
+				</tr>
+				<tr>
+					<td>bye</td>
+					<td>bye@gmail.com</td>
+					<td>9988556633</td>
+				</tr>
+			</tbody>
+		</table>
+    </body>
+</html>
